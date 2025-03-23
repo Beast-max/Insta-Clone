@@ -176,6 +176,3 @@ fun hideKeyboard(view: View) {
 
 
 ---
-## **Contributors**
-Feel free to contribute to this project by submitting **pull requests**! 🎉
-

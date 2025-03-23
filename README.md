@@ -36,6 +36,7 @@ This project is an **Instagram-like social media application** built using **Kot
 ```bash
 git clone <repo-url>
 cd InstaGramApp
+switch to master branch
 ```
 
 ### **2. Open in Android Studio**
@@ -43,12 +44,6 @@ cd InstaGramApp
 - Navigate to the project folder and open it.
 
 ### **3. Connect Firebase**
-- Go to [Firebase Console](https://console.firebase.google.com/).
-- Create a new project or use an existing one.
-- Add **Google Services JSON** file in `app/`.
-- Enable **Firestore Database** and configure rules.
-- Enable **Firebase Authentication (Email/Google Login)**.
-- Enable **Firebase Storage** for image uploads.
 
 ### **4. Run the App**
 - Ensure **Gradle** is synced.

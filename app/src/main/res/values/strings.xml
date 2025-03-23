@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Farm App</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="let_s_grow_with">Let’s grow with ,</string>
+    <string name="farmclub">Insta Connect</string>
+    <string name="your_one_stop_online_shop_for_buying_plants_garden_products_we_provide_the_quickly_deliver_high_quality_plants_and_garden">This App is a small clone of instagram with post image feature.</string>
+    <string name="create_account">Create Account</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="email">Email</string>
+    <string name="name">Name</string>
+    <string name="already_have_an_account">Already have an account ?</string>
+    <string name="login">Login</string>
+    <string name="add_devices_to_nurture_your_plants_and_nchoose_their_caregivers_for_a_flourishing_garden_experience">Add devices to nurture your plants and\nchoose their caregivers for a flourishing garden experience.</string>
+    <string name="no_devices_found">No Devices Found !</string>
+    <string name="good_morning_john">Good Morning, John!</string>
+    <string name="let_s_take_care_of_the_plants">Let’s take care of the plants</string>
+    <string name="default_web_client_id">838864524147-diu5tais77oqlgo9id5t2l9q8gp1afio.apps.googleusercontent.com</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="change_password">Change Password</string>
+    <string name="devices">Devices</string>
+    <string name="plants">Plants</string>
+    <string name="thisis_email_com">thisis@email.com</string>
+    <string name="random_firstname">Random Firstname</string>
+    <string name="upload_profile">Profile Pic</string>
+    <string name="_2_days">2 Days</string>
+    <string name="germination">Germination</string>
+    <string name="add_device">Add Device</string>
+    <string name="profile">profile</string>
+    <string name="save">Save</string>
+    <string name="logout">LogOut</string>
+</resources>

@@ -1,0 +1,16 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme -->
+    <style name="Base.Theme.InstaGramApp" parent="Theme.Material3.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="android:windowBackground">@color/white</item>
+        <!-- Add other customizations as needed -->
+    </style>
+
+    <style name="Theme.InstaGramApp" parent="Base.Theme.InstaGramApp" />
+
+    <!-- Style for CircleImageView -->
+    <style name="CircleImageView">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">50%</item>
+    </style>x
+</resources>
